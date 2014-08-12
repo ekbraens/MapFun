@@ -1,0 +1,10 @@
+In file included from /Users/Iliana/Documents/BigNerdRanch/Whereami/Classes/MapPoint.m:9:
+/Users/Iliana/Documents/BigNerdRanch/Whereami/Classes/MapPoint.h:22: error: expected ';' before 'property'
+/Users/Iliana/Documents/BigNerdRanch/Whereami/Classes/MapPoint.m:13: error: no declaration of property 'title' found in the interface
+/Users/Iliana/Documents/BigNerdRanch/Whereami/Classes/MapPoint.m: In function '-[MapPoint initWithCoordinate:title:]':
+/Users/Iliana/Documents/BigNerdRanch/Whereami/Classes/MapPoint.m:23: warning: 'MapPoint' may not respond to '-setTitle:'
+/Users/Iliana/Documents/BigNerdRanch/Whereami/Classes/MapPoint.m:23: warning: (Messages without a matching method signature
+/Users/Iliana/Documents/BigNerdRanch/Whereami/Classes/MapPoint.m:23: warning: will be assumed to return 'id' and accept
+/Users/Iliana/Documents/BigNerdRanch/Whereami/Classes/MapPoint.m:23: warning: '...' as arguments.)
+/Users/Iliana/Documents/BigNerdRanch/Whereami/Classes/MapPoint.m: At top level:
+/Users/Iliana/Documents/BigNerdRanch/Whereami/Classes/MapPoint.m:35: warning: property 'date' requires method '-date' to be defined - use @synthesize, @dynamic or provide a method implementation
